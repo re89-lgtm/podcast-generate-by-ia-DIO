@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="output/podcaster.jpg"
+    src="output/podcaster-nati.jpg"
     width="300"
 />
 </p>
