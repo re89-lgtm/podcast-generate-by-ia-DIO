@@ -11,7 +11,7 @@
 </p>
 
 <div align="center">
-    <audio src="output/wordventure.MP3" controls title="Podcast Wordventure"></audio>
+    <audio src="output/wordventure editado.MP3" controls title="Podcast Wordventure"></audio>
 </div>
 
 # Projeto Podcast Gerado por I.A.s
